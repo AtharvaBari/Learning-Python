@@ -1,0 +1,15 @@
+str = "hello there i am a student who hates edu system"
+
+print(str.endswith("system"))
+print(str.endswith("System"))
+print("----------------------------\n")
+print(str.capitalize())
+print("----------------------------\n")
+print(str.replace("o", "a"))
+print(str.replace("hates", "keeps hating"))
+print("----------------------------\n")
+print(str.find("o"))
+print(str.find("student"))
+print(str.find("q"))
+print("----------------------------\n")
+print(str.count("o"))
