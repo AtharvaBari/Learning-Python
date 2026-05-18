@@ -15,3 +15,9 @@ print(list2)
 
 list2.insert(2, 888)
 print(list2)
+
+list2.remove(64)
+print(list2)
+
+list2.pop(4)
+print(list2)
