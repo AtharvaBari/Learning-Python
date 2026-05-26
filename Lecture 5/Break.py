@@ -5,6 +5,7 @@ x = int(input("Enter a no. : "))
 while i < 10:
     if (tup[i] == x):
         print("Element found at ", i)
+        break
     else:
         print("Finding...")
     i += 1
