@@ -1,0 +1,6 @@
+x = open("/Users/atharvabari/Main/Code/Learning-Python/Lecture 7/sample.txt", "r")
+data = x.readline()
+data2 = x.readline()
+print(data)
+print(data2)
+x.close()
