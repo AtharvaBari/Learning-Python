@@ -10,4 +10,3 @@ with open("/Users/atharvabari/Main/Code/Learning-Python/Lecture 7/no.txt", "r") 
             num = ""
         else:
             num += data[i]
-x
