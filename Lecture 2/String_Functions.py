@@ -1,4 +1,4 @@
-str = "hello there i am a student who hates edu system"
+str = "hello there i am a student who hates edu system. atharav"
 
 print(str.endswith("system"))
 print(str.endswith("System"))
